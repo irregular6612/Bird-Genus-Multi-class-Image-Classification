@@ -1,3 +1,7 @@
+checkpoints/
+history/
+bird-genus-multi-class-image-classification.zip
+images/
 # dataset
 images/*
 checkpoints/*
